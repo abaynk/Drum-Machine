@@ -1,6 +1,6 @@
 # Drum-Machine
 Simple Drum Machine app with volume changing bar, power toggle, display and keys.<br>
-Logic:<br>
+<em>Logic:</em><br>
 <ol>
   <li>you can click on keys or push corresponding key on your keyboard.</li>
   <li>display shows what sound have you played</li>
