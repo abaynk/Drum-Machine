@@ -1,6 +1,6 @@
 # Drum-Machine
 Simple Drum Machine app with volume changing bar, power toggle, display and keys.<br>
-To access source code file: src->App.js<br>
+To access source code file: <em>src->App.js</em><br>
 <em>Logic:</em><br>
 <ol>
   <li>you can click on keys or push corresponding key on your keyboard in order to hear a sound.</li>
