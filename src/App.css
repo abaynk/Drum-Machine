@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Sniglet:wght@400;800&display=swap');
 .App {
   position: relative;
   text-align: center;
@@ -32,6 +33,8 @@ h2{
   background-color: #F76F8E;
   border:none;
   border-radius: 10px;
+  font-family: 'Sniglet', cursive;
+  font-size: 30px;
 }
 .drum-pad:active{
   background-color: #FFEAD0;
@@ -79,4 +82,11 @@ h2{
 label{
   color:black;
   font-size:20px;
+}
+.credits{
+  text-align: center;
+  margin-top: 30px;
+  color: black;
+  font-family: 'Sniglet', cursive;
+  font-size: 20px;
 }

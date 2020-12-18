@@ -114,11 +114,14 @@ class App extends React.Component {
       Howler.volume(this.state.volume);
     }
     return (
+      <div>
       <div className='App' id='drum-machine'>
         <Display title={this.state.title} />
         {this.RenderButtonAndSound()}
         <Toggle toggle={this.handleToggle}/>
         <Volume volume={this.handleVolume}/>
+      </div>
+      <div class ='credits'><p>Designed and coded by Abay Nurpeissov</p></div>
       </div>
     )
   }
